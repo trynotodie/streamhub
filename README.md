@@ -1,2 +1,0 @@
-# streamhub
-Entertainment related
